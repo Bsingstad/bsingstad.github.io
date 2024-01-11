@@ -1,14 +1,14 @@
 ---
 layout: page
-title: jobs
+title: supervision
 order: 5
 permalink: /jobs/
-description: Come and join us 👋🏼
+description: 
 nav: true
 display_categories: []
 horizontal: false
 ---
-
+<!--
 Currently (Sep 2023), we have vacancies for multiple Postdoctoral Fellows (Wet or Dry Lab) in the following directions:
 wmmdmsdm
 jdjwdjwdjdjajdas
@@ -40,3 +40,5 @@ To apply, please send your CV + 3 contacts for references to shuaism\[at\]sustec
 
 #### **Student**
 We welcome students at all levels including international students. For future PhD/Master students, you need to apply through the university program but we are happy to answer your questions by email (shuaism\[at\]sustech.edu.cn). For undergraduate students interested in doing an internship at our lab, please check out our [research](/projects/) and send an email to us directly with a short introduction of yourself.
+
+-->

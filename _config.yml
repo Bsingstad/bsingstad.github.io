@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: COmics Lab @ SUSTech # the website title (if blank, full name will be used instead)
-org_name: COmics Lab @ SUSTech
-first_name: 
+title: Bjørn-Jostein Singstad
+org_name: Bjørn-Jostein Singstad
+first_name: Bjørn-Jostein 
 middle_name: 
-last_name: 
-email: 
+last_name: Singstad
+email: bjorn_sing@hotmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
   <br />Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, <a href="https://github.com/alshedivat/al-folio">al-folio</a> & <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-icon: 🧬 # the emoji used as the favicon
+icon: 🫀 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -42,12 +42,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username:  # your GitHub user name
+github_username:  Bsingstad # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: smshuai # your Twitter handle
+twitter_username:  # your Twitter handle
 linkedin_username:  # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0003-4055-4297 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -56,7 +56,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-wechat_username: test
+wechat_username: #
 
 contact_note: >
 
@@ -67,8 +67,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog (this is actually news now)
 # -----------------------------------------------------------------------------
 
-blog_name: news  # your blog must have a name for it to show up in the nav bar
-blog_description: <i class="fas fa-bullhorn"></i>&nbsp;Learn what is happening in our group!
+blog_name:   # your blog must have a name for it to show up in the nav bar
+blog_description: #
 permalink: /news/:year/:title/
 
 # Pagination
@@ -149,8 +149,8 @@ sass:
 
 scholar:
 
-  last_name: Shuai
-  first_name: [Shimin, S.]
+  last_name: Singstad
+  first_name: Bjørn-Jostein
 
   style: apa
   locale: en
