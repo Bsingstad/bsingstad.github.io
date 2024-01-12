@@ -1,7 +1,7 @@
-github_users:
+GitHub user:
   - Bsingstad
 
-github_repos:
+Selected GitHub repos:
   - Bsingstad/PhysioNet-CinC-Challenge2020-TeamUIO
   - Bsingstad/Heart-murmur-detection-2022-Simulab
   - Bsingstad/ECG-classification-using-open-data
