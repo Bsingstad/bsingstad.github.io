@@ -76,7 +76,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: stranger # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
