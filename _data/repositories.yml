@@ -8,3 +8,9 @@ github_repos:
   - Bsingstad/ECG-age
   - Bsingstad/Strodthoff-2021
   - Bsingstad/EEG-predict-cardiac-arrest-recovery
+
+hugging_face_users:
+  - bjornsing
+
+hugging_face_repos:
+  - bjornsing/Age-and-gender-prediction-from-ECG
