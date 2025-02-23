@@ -9,6 +9,7 @@ display_categories:
 horizontal: false
 ---
 **Interviews:**
+Tønsbergs blad: [Innen ett år vil kunstig intelligens være avgjørende i helsevesenet](https://www.tb.no/innen-ett-ar-vil-kunstig-intelligens-vare-avgjorende-i-helsevesenet-det-er-som-word-pa-steroider/s/5-76-2445395) 
 
 Gjengangern: [Ideen til Bjørn-Jostein kan redde flere liv: Det er et kappløp](https://www.gjengangeren.no/ideen-til-bjorn-jostein-kan-redde-flere-liv-det-er-et-kapplop/s/5-60-850219)
 
